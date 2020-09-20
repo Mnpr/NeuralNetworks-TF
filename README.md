@@ -1,12 +1,9 @@
 # Neural Networks and Deep Learning
 
-> Implementation Using TensorFlow /PyTorch
 
-
+## Numpy
 
 ### Tensorflow
-
-
 
 ### Pytorch
 
