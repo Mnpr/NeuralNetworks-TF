@@ -1,10 +1,11 @@
 # Neural Networks and Deep Learning
 
-
 ## Numpy
 
-### Tensorflow
+## Pandas
 
-### Pytorch
+## Matplotlib
+
+## Seaborn 
 
 
