@@ -2,10 +2,33 @@
 
 ## Numpy
 
+- Arrays
+- Operations
+- Indexing and Selection
+
 ## Pandas
 
-## Matplotlib
+- Introduction
+- Operations
+- Pre-processing
+- Data-IO
 
-## Seaborn 
+## Visualization
+
+- Matplotlib
+- Seaborn
+
+## Tensorflow
+
+- Basic Image Classification
+- Tensorboard 
+
+## PyTorch
+
+- Basics
+- Linear Regression
+- Generative Adversarial Networks
+
+## FastAI
 
 
