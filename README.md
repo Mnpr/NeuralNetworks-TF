@@ -28,7 +28,7 @@
 - Basics
 - Linear Regression
 - Generative Adversarial Networks
+  - Multilayer Perceptron GAN
+  - Deep Colvolutional GAN
 
 ## FastAI
-
-
